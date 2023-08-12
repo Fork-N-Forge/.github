@@ -1,12 +1,7 @@
-## Hi there 👋
+<div style="text-align:center;" align="center">
+  <img align="center" src="https://github.com/Hack-Haven/.github/assets/76718773/bc8f186c-1c84-47f0-9eb3-7fa302c5a6cc" width="400px" alt="HackHaven"/>
+</div>
+<h3  style="text-align:center; font-size:30" align="center">
+   Unleashing the World of Tech 🚀| Join the Hack Haven Community for all things coding, hacking, and innovation. | Let's hack the future together! 💻🌐 #HackHavenTech
+</h3>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
