@@ -4,7 +4,7 @@
 <h3  style="text-align:center; font-size:30" align="center">
    Unleashing the World of Tech 🚀| Join the Hack Haven Community for all things coding, hacking, and innovation. | Let's hack the future together! 💻🌐 #HackHavenTech
 </h3>
-<p align="left">
+<p align="center">
 <a href="mailto:hackhavencommunity@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -26,6 +26,7 @@
 <a href="" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
+</p>
 <br />
 
 
@@ -35,7 +36,7 @@
 
      
       
-### Steps to join The Hack Haven Github Organization:
+## Steps to join The Hack Haven Github Organization:
 
 > 1. Go to the issues tab [here]().
 >   
@@ -45,7 +46,7 @@
 > 
 > 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, then only you will become a member of our Github Organization.
 
-### How do I set the Organization to Public?
+## How do I set the Organization to Public?
 
 > 1. Navigate to our community page: 
 >   
