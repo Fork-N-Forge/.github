@@ -52,15 +52,16 @@
 >   
 > 2. Click on the people header or click [here]() : <br>
 >   
-> ![people2]() <br>
+> ![Screenshot (987)](https://github.com/Hack-Haven/.github/assets/92796050/a7192e92-ba2b-40d7-a74f-ec5acc65b4dc)
+
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
-><img width="233" alt="searchbar" src="https://github.com/Hack-Haven/.github/assets/92796050/bc2751ea-ba18-4b9f-af03-9242e9d70f6f">
+>![Screenshot (991)](https://github.com/Hack-Haven/.github/assets/92796050/e37d4ba0-95af-4a13-9e17-84b75558f86a)
 >
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
-> ![makepublic]()
+> ![Screenshot (989)](https://github.com/Hack-Haven/.github/assets/92796050/8344ba17-d126-46aa-8cce-11087af1c5b2)
  <br>
 
 
