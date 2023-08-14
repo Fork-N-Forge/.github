@@ -32,36 +32,36 @@
 
 # Community Support
 
-> Raise an issue to join the **Hack Haven** GitHub Community.
+ Raise an issue to join the **Hack Haven** GitHub Community.
 
      
       
 ## Steps to join The Hack Haven Github Organization:
 
-> 1. Go to the issues tab [here]().
+ 1. Go to the issues tab [here]().
 >   
-> 2. In the Issues Tab and create a new issue.
+ 2. In the Issues Tab and create a new issue.
 > 
-> 3. Select the "Invitation to Hack Haven - Github Organization" and fill in your details.
+ 3. Select the "Invitation to Hack Haven - Github Organization" and fill in your details.
 > 
-> 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, then only you will become a member of our Github Organization.
+ 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, then only you will become a member of our Github Organization.
 
 ## How do I set the Organization to Public?
 
-> 1. Navigate to our community page: 
+ 1.  Navigate to our community page:
 >   
-> 2. Click on the people header or click [here]() : <br>
+ 2.  Click on the people header or click [here]() : <br>
 >   
-> ![Screenshot (987)](https://github.com/Hack-Haven/.github/assets/92796050/a7192e92-ba2b-40d7-a74f-ec5acc65b4dc)
+ ![Screenshot (987)](https://github.com/Hack-Haven/.github/assets/92796050/a7192e92-ba2b-40d7-a74f-ec5acc65b4dc)
 
 >   
-> 3. Enter your github username in the searchbar: <br>
+ 3.  Enter your github username in the searchbar: <br>
 >   
->![Screenshot (991)](https://github.com/Hack-Haven/.github/assets/92796050/e37d4ba0-95af-4a13-9e17-84b75558f86a)
+![Screenshot (991)](https://github.com/Hack-Haven/.github/assets/92796050/e37d4ba0-95af-4a13-9e17-84b75558f86a)
 >
-> 4. Check if it is `Private` (the default) and set it to `Public`: <br>
+ 4.  Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
-> ![Screenshot (989)](https://github.com/Hack-Haven/.github/assets/92796050/8344ba17-d126-46aa-8cce-11087af1c5b2)
+ ![Screenshot (989)](https://github.com/Hack-Haven/.github/assets/92796050/8344ba17-d126-46aa-8cce-11087af1c5b2)
  <br>
 
 
