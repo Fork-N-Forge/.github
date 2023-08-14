@@ -56,8 +56,8 @@
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
-> <img width="233" alt="searchbar" src=""> <br>
->   
+><img width="233" alt="searchbar" src="https://github.com/Hack-Haven/.github/assets/92796050/bc2751ea-ba18-4b9f-af03-9242e9d70f6f">
+>
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
 > ![makepublic]()
