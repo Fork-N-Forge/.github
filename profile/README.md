@@ -38,7 +38,7 @@
       
 ## Steps to join The Hack Haven Github Organization:
 
- 1. Go to the issues tab [here]().
+ 1. Go to the issues tab [here](https://github.com/Hack-Haven/support/issues).
 >   
  2. In the Issues Tab and create a new issue.
 > 
