@@ -72,6 +72,12 @@
 
 <a href="">👋 join our discord community <strong>Hack Haven</strong> </a>
 
+## Contributors ✨
+
+<a href="https://github.com/Hack-Haven/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Hack-Haven/.github" />
+</a>
+
 
 
 
