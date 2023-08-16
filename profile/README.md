@@ -73,3 +73,21 @@
 <a href="">👋 join our discord community <strong>Hack Haven</strong> </a>
 
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://sidme.tech/"><img src="https://avatars.githubusercontent.com/u/76718773?v=4?s=100" width="100px;" alt="Siddhartha-Mishra"/><br /><sub><b>Siddhartha-Mishra</b></sub></a><br /><a href="https://github.com/Hack-Haven/.github/commits?author=SiddharthaMishra-dev" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+
+
