@@ -1,4 +1,7 @@
 <div style="text-align:center;" align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img align="center" src="https://github.com/Hack-Haven/.github/assets/76718773/bc8f186c-1c84-47f0-9eb3-7fa302c5a6cc" width="400px" alt="HackHaven"/>
 </div>
 <h3  style="text-align:center; font-size:30" align="center">
@@ -69,3 +72,25 @@
 >Subscribe our YouTube channel [here]()
 
 <a href="">👋 join our discord community <strong>Hack Haven</strong> </a>
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://sidme.tech/"><img src="https://avatars.githubusercontent.com/u/76718773?v=4?s=100" width="100px;" alt="Siddhartha-Mishra"/><br /><sub><b>Siddhartha-Mishra</b></sub></a><br /><a href="https://github.com/Hack-Haven/.github/commits?author=SiddharthaMishra-dev" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
