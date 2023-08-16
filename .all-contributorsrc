@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Priyanshi-Rai",
+      "name": "Rai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83975944?v=4",
+      "profile": "https://www.linkedin.com/in/prai",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": ".github",
+  "projectOwner": "Hack-Haven"
+}
