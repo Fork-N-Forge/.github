@@ -1,6 +1,6 @@
 <div style="text-align:center;" align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img align="center" src="https://github.com/Hack-Haven/.github/assets/76718773/bc8f186c-1c84-47f0-9eb3-7fa302c5a6cc" width="400px" alt="HackHaven"/>
 </div>
@@ -84,6 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://sidme.tech/"><img src="https://avatars.githubusercontent.com/u/76718773?v=4?s=100" width="100px;" alt="Siddhartha-Mishra"/><br /><sub><b>Siddhartha-Mishra</b></sub></a><br /><a href="https://github.com/Hack-Haven/.github/commits?author=SiddharthaMishra-dev" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ayush7614"><img src="https://avatars.githubusercontent.com/u/67006255?v=4?s=100" width="100px;" alt="Felix-Ayush"/><br /><sub><b>Felix-Ayush</b></sub></a><br /><a href="#projectManagement-Ayush7614" title="Project Management">📆</a></td>
     </tr>
   </tbody>
 </table>
