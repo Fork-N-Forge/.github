@@ -14,13 +14,13 @@
 <a href="" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
 </a>
-<a href="" style="text-decoration:none">
+<a href="https://www.linkedin.com/company/hack-haven-community/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="" style="text-decoration:none">
+<a href="https://github.com/Hack-Haven" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="" style="text-decoration:none">
+<a href="https://www.instagram.com/hackhavencommunity/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="" style="text-decoration:none">
