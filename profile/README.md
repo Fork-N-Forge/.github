@@ -1,5 +1,6 @@
 <div style="text-align:center;" align="center">
-  <img align="center" src="https://github.com/Hack-Haven/.github/assets/76718773/bc8f186c-1c84-47f0-9eb3-7fa302c5a6cc" width="400px" alt="HackHaven"/>
+
+  <img align="center" src="https://github.com/Fork-N-Forge/.github/assets/76718773/90a9cce6-81a3-4af1-a35c-33ae5336aff5" width="400px" alt="HackHaven"/>
 </div>
 <h3  style="text-align:center; font-size:30" align="center">
    Unleashing the World of Tech 🚀| Join the Hack Haven Community for all things coding, hacking, and innovation. | Let's hack the future together! 💻🌐 #HackHavenTech
@@ -14,13 +15,13 @@
 <a href="" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/company/hack-haven-community/" style="text-decoration:none">
+<a href="https://www.linkedin.com/company/forknforge/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Hack-Haven" style="text-decoration:none">
+<a href="https://github.com/Fork-N-Forge" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/hackhavencommunity/" style="text-decoration:none">
+<a href="https://www.instagram.com/forknforge/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="" style="text-decoration:none">
@@ -38,7 +39,7 @@
       
 ## Steps to join The Hack Haven Github Organization:
 
- 1. Go to the issues tab [here](https://github.com/Hack-Haven/support/issues).
+ 1. Go to the issues tab [here](https://github.com/Fork-N-Forge/support/issues).
 >   
  2. In the Issues Tab and create a new issue.
 > 
@@ -65,12 +66,6 @@
  <br>
 
 
-## Socials
-
->Join our discord community [here]()   
->Subscribe our YouTube channel [here]()
-
-<a href="">👋 join our discord community <strong>Hack Haven</strong> </a>
 
 ## Contributors ✨
 
