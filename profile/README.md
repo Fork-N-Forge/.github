@@ -3,7 +3,7 @@
   <img align="center" src="https://github.com/Fork-N-Forge/.github/assets/76718773/90a9cce6-81a3-4af1-a35c-33ae5336aff5" width="400px" alt="HackHaven"/>
 </div>
 <h3  style="text-align:center; font-size:30" align="center">
-   Unleashing the World of Tech 🚀| Join the Hack Haven Community for all things coding, hacking, and innovation. | Let's hack the future together! 💻🌐 #HackHavenTech
+   Unleashing the World of Tech 🚀| Join the Fork-N-Forge Community for all things coding, hacking, and innovation. | Let's hack the future together! 💻🌐 #Fork-N-Forge
 </h3>
 <p align="center">
 <a href="mailto:hackhavencommunity@gmail.com" style="text-decoration:none">
@@ -33,17 +33,17 @@
 
 # Community Support
 
- Raise an issue to join the **Hack Haven** GitHub Community.
+ Raise an issue to join the **Fork-N-Forge** GitHub Community.
 
      
       
-## Steps to join The Hack Haven Github Organization:
+## Steps to join The Fork-N-Forge Github Organization:
 
  1. Go to the issues tab [here](https://github.com/Fork-N-Forge/support/issues).
 >   
  2. In the Issues Tab and create a new issue.
 > 
- 3. Select the "Invitation to Hack Haven - Github Organization" and fill in your details.
+ 3. Select the "Invitation to Fork-N-Forge - Github Organization" and fill in your details.
 > 
  4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, then only you will become a member of our Github Organization.
 
