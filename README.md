@@ -22,7 +22,7 @@
 <a href="" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="" style="text-decoration:none">
+<a href="https://www.instagram.com/hackhavencommunity/" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="" style="text-decoration:none">
@@ -39,7 +39,7 @@
       
 ### Steps to join The Hack Haven Github Organization:
 
-> 1. Go to the issues tab [here]().
+> 1. Go to the issues tab [here](https://github.com/Hack-Haven/.github/issues).
 >   
 > 2. In the Issues Tab and create a new issue.
 > 
