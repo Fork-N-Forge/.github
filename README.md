@@ -1,80 +1,65 @@
-<div style="text-align:center;" align="center">
-
-
-  <img align="center" src="https://github.com/Hack-Haven/.github/assets/76718773/bc8f186c-1c84-47f0-9eb3-7fa302c5a6cc" width="400px" alt="HackHaven"/>
+<div align="center">
+  <img src="https://github.com/Fork-N-Forge/.github/assets/76718773/90a9cce6-81a3-4af1-a35c-33ae5336aff5" width="400px" alt="HackHaven"/>
 </div>
-<h3  style="text-align:center; font-size:30" align="center">
-   Unleashing the World of Tech 🚀| Join the Hack Haven Community for all things coding, hacking, and innovation. | Let's hack the future together! 💻🌐 #HackHavenTech
-</h3>
-<p align="left">
-<a href="mailto:hackhavencommunity@gmail.com" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<h1 align="center">🚀 Welcome to Fork-N-Forge 🚀</h1>
+<p align="center">Unleash the World of Tech | Join the Fork-N-Forge Community for all things coding, hacking, and innovation. Let's hack the future together! 💻🌐 #Fork-N-Forge</p>
+<p align="center">
+  <a href="mailto:hackhavencommunity@gmail.com" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/📧 Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/company/hack-haven-community/" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
-</a>
-<br />
+    <img height="30" src="https://img.shields.io/badge/💬 Discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/🌐 Website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/company/forknforge/" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/🔗 LinkedIn-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fork-N-Forge" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/🌐 Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/forknforge/" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/📸 Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/🎥 YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
+</p>
 
+# Join Our Community 🤝
 
-# Community Support
+Raise an issue to become part of the **Fork-N-Forge** GitHub Community.
 
-> Raise an issue to join the **Hack Haven** GitHub Community.
+## 🛠️ Steps to Join the Fork-N-Forge Github Organization:
 
-     
-      
-### Steps to join The Hack Haven Github Organization:
+1. Go to the issues tab [here](https://github.com/Fork-N-Forge/support/issues).
 
-> 1. Go to the issues tab [here]().
->   
-> 2. In the Issues Tab and create a new issue.
-> 
-> 3. Select the "Invitation to Hack Haven - Github Organization" and fill in your details.
-> 
-> 4. That's it you'll recieve an e-mail invitation to join our org. Make sure you accept it, then only you will become a member of our Github Organization.
+2. Create a new issue.
 
-### How do I set the Organization to Public?
+3. Select "Invitation to Fork-N-Forge - Github Organization" and provide your details.
 
-> 1. Navigate to our community page: 
->   
-> 2. Click on the people header or click [here]() : <br>
->   
-> ![people2]() <br>
->   
-> 3. Enter your github username in the searchbar: <br>
->   
-> <img width="233" alt="searchbar" src=""> <br>
->   
-> 4. Check if it is `Private` (the default) and set it to `Public`: <br>
->   
-> ![makepublic]()
- <br>
+4. Look out for the email invitation to join our GitHub Organization; ensure you accept it to become a member.
 
+## Making the Organization Public 🔓
 
-## Socials
+1. Navigate to our community page: [Fork-N-Forge GitHub Community](https://github.com/Fork-N-Forge/).
 
->Join our discord community [here]()   
->Subscribe our YouTube channel [here]()
+2. Click on the "People" header or simply [here](https://github.com/orgs/Fork-N-Forge/people).
 
-<a href="">👋 join our discord community <strong>Hack Haven</strong> </a>
+   ![People](https://github.com/Hack-Haven/.github/assets/92796050/a7192e92-ba2b-40d7-a74f-ec5acc65b4dc)
 
+3. Enter your GitHub username in the search bar.
+
+   ![Search Bar](https://github.com/Hack-Haven/.github/assets/92796050/e37d4ba0-95af-4a13-9e17-84b75558f86a)
+
+4. If it's set to "Private" (the default), change it to "Public".
+
+   ![Make Public](https://github.com/Hack-Haven/.github/assets/92796050/8344ba17-d126-46aa-8cce-11087af1c5b2)
 
 ## Contributors ✨
 
-<a href="https://github.com/Hack-Haven/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Hack-Haven/.github" />
+<a href="https://github.com/Fork-N-Forge/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Fork-N-Forge/.github" />
 </a>
+</markdown>
